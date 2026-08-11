@@ -41,7 +41,7 @@ const aditya = {
 > YouTube hub built for students.
 
 <div align="center">
-  <img src="./assets/youtube-hub-preview.jpg" alt="YOUTUBE-HUB preview" width="90%"/>
+  <img src="YOUTUBE-HUB-preview.jpg" alt="YOUTUBE-HUB preview" width="90%"/>
 </div>
 
 <div align="center">
@@ -68,9 +68,9 @@ const aditya = {
 > Builds and trains ML models.
 
 <div align="center">
-  <img src="./assets/trident-ai-preview-1.png" alt="trident-ai dashboard preview" width="90%"/>
+  <img src="trident-ai-preview-1.png" alt="trident-ai dashboard preview" width="90%"/>
   <br/><br/>
-  <img src="./assets/trident-ai-preview-2.png" alt="trident-ai pipeline preview" width="90%"/>
+  <img src="trident-ai-preview-2.png" alt="trident-ai pipeline preview" width="90%"/>
 </div>
 
 <div align="center">
