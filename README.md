@@ -41,6 +41,10 @@ const aditya = {
 > YouTube hub built for students.
 
 <div align="center">
+  <img src="./assets/youtube-hub-preview.jpg" alt="YOUTUBE-HUB preview" width="90%"/>
+</div>
+
+<div align="center">
   <a href="https://github.com/adi2105-co/YOUTUBE-HUB">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adi2105-co&repo=YOUTUBE-HUB&theme=nord&border_color=bd00ff&title_color=bd00ff&text_color=c9d1d9&bg_color=0d1117" />
   </a>
@@ -64,6 +68,12 @@ const aditya = {
 > Builds and trains ML models.
 
 <div align="center">
+  <img src="./assets/trident-ai-preview-1.png" alt="trident-ai dashboard preview" width="90%"/>
+  <br/><br/>
+  <img src="./assets/trident-ai-preview-2.png" alt="trident-ai pipeline preview" width="90%"/>
+</div>
+
+<div align="center">
   <a href="https://github.com/adi2105-co/trident-ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adi2105-co&repo=trident-ai&theme=nord&border_color=bd00ff&title_color=bd00ff&text_color=c9d1d9&bg_color=0d1117" />
   </a>
@@ -76,6 +86,7 @@ const aditya = {
 
 <div align="center">
 
+[![Live](https://img.shields.io/badge/Live-bd00ff?style=for-the-badge&logo=vercel&logoColor=white)](https://trident-ai-wheat.vercel.app/)
 [![Code](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adi2105-co/trident-ai)
 
 </div>
