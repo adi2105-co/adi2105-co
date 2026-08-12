@@ -115,10 +115,10 @@ const aditya = {
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=adi2105-co&show_icons=true&theme=nord&border_color=bd00ff&title_color=bd00ff&text_color=c9d1d9&bg_color=0d1117&icon_color=bd00ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adi2105-co&show_icons=true&theme=nord&border_color=bd00ff&title_color=bd00ff&text_color=c9d1d9&bg_color=0d1117&icon_color=bd00ff" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi2105-co&layout=compact&theme=nord&border_color=bd00ff&title_color=bd00ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=adi2105-co&theme=nord&border=bd00ff&ring=bd00ff&fire=bd00ff&currStreakLabel=bd00ff" /> -->
+<!-- <img src="https://streak-stats.demolab.com?user=adi2105-co&theme=nord&border=bd00ff&ring=bd00ff&fire=bd00ff&currStreakLabel=bd00ff" />  -->
 
 </div>
 
