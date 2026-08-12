@@ -42,6 +42,7 @@ const aditya = {
 
 <div align="center">
   <img src="YOUTUBE-HUB-preview.jpg" alt="YOUTUBE-HUB preview" width="90%"/>
+ <img src="YOUTUBE-HUB-preview.jpg" alt="YOUTUBE-HUB preview" width="90%"/>
 </div>
 
 <div align="center">
