@@ -46,9 +46,9 @@ const aditya = {
 </div>
 
 <div align="center">
-  <a href="https://github.com/adi2105-co/YOUTUBE-HUB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adi2105-co&repo=YOUTUBE-HUB&theme=nord&border_color=bd00ff&title_color=bd00ff&text_color=c9d1d9&bg_color=0d1117" />
-  </a>
+  <!-- <a href="https://github.com/adi2105-co/YOUTUBE-HUB">
+    <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=adi2105-co&repo=YOUTUBE-HUB&theme=nord&border_color=bd00ff&title_color=bd00ff&text_color=c9d1d9&bg_color=0d1117" /> -->
+  </a> -->
 </div>
 
 | Layer      | Technology |
@@ -75,9 +75,9 @@ const aditya = {
 </div>
 
 <div align="center">
-  <a href="https://github.com/adi2105-co/trident-ai">
+  <!-- <a href="https://github.com/adi2105-co/trident-ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adi2105-co&repo=trident-ai&theme=nord&border_color=bd00ff&title_color=bd00ff&text_color=c9d1d9&bg_color=0d1117" />
-  </a>
+  </a> -->
 </div>
 
 | Layer      | Technology |
