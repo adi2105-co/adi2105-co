@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="Adi2.png" width="100%"/> 
+ <img src="Adi2.png" width="50%"/> 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=BD00FF&center=true&vCenter=true&width=600&lines=Training+ML+models+with+trident-ai;Building+YOUTUBE-HUB+for+students;C%2B%2B+%7C+Network+%7C+CyberSecurity+%7C+ProblemSolving;Always+shipping+something+new" alt="Typing SVG" />
@@ -47,8 +47,8 @@ const aditya = {
 
 <div align="center">
   <!-- <a href="https://github.com/adi2105-co/YOUTUBE-HUB">
-    <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=adi2105-co&repo=YOUTUBE-HUB&theme=nord&border_color=bd00ff&title_color=bd00ff&text_color=c9d1d9&bg_color=0d1117" /> -->
-  </a> -->
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adi2105-co&repo=YOUTUBE-HUB&theme=nord&border_color=bd00ff&title_color=bd00ff&text_color=c9d1d9&bg_color=0d1117" /> 
+  </a> 
 </div>
 
 | Layer      | Technology |
