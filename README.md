@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="Adi2.png" width="50%"/> 
+ <img src="Adi2.png" width="35%"/> 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=BD00FF&center=true&vCenter=true&width=600&lines=Training+ML+models+with+trident-ai;Building+YOUTUBE-HUB+for+students;C%2B%2B+%7C+Network+%7C+CyberSecurity+%7C+ProblemSolving;Always+shipping+something+new" alt="Typing SVG" />
@@ -115,10 +115,10 @@ const aditya = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adi2105-co&show_icons=true&theme=nord&border_color=bd00ff&title_color=bd00ff&text_color=c9d1d9&bg_color=0d1117&icon_color=bd00ff" height="165"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=adi2105-co&show_icons=true&theme=nord&border_color=bd00ff&title_color=bd00ff&text_color=c9d1d9&bg_color=0d1117&icon_color=bd00ff" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi2105-co&layout=compact&theme=nord&border_color=bd00ff&title_color=bd00ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=adi2105-co&theme=nord&border=bd00ff&ring=bd00ff&fire=bd00ff&currStreakLabel=bd00ff" />
+<img src="https://streak-stats.demolab.com?user=adi2105-co&theme=nord&border=bd00ff&ring=bd00ff&fire=bd00ff&currStreakLabel=bd00ff" /> -->
 
 </div>
 
