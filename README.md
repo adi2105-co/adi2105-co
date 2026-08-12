@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="Adi2.png" width="50%" height="50%" align="centre"/> 
+ <img src="Adi2.png" width="50%" align="centre" height="500"/> 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=BD00FF&center=true&vCenter=true&width=600&lines=Training+ML+models+with+trident-ai;Building+YOUTUBE-HUB+for+students;C%2B%2B+%7C+Network+%7C+CyberSecurity+%7C+ProblemSolving;Always+shipping+something+new" alt="Typing SVG" />
@@ -126,7 +126,10 @@ const aditya = {
 
 <div align="center">
 
-  <img src="" />  
+  <img src="jpmorgancertificate.png" width="%20" height="300"/>
+  <img src="pybasiccertifcate.png" width="%20" height="300"/> 
+  <img src="css1.png" width="%20" height="300"/> 
+  
 
 </div>
 
